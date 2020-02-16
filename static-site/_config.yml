@@ -1,6 +1,6 @@
 # Site settings
 title: McKinley IT
-email: eric@mckinleyit.com
+email: eric atsymbol mckinleyit dot com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

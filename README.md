@@ -4,11 +4,11 @@ A Jekyll implementation of the [McKinley IT website](http://mckinleyit.com/)
 
 ## To Use
 
-Download install jekyll and from project directory execute
+```
+docker run --rm --volume="$PWD/static-site:/srv/jekyll" -p 12000:4000 -it jekyll/builder:3.8 jekyll serve
+```
 
-`jekyll serve`
- 
- Website can be viewed on http://localhost:4000
- 
+Visit site at [http://localhost:12000](http://localhost:12000)
+
  Generated content is found in PROJECT_DIR/_site
 
