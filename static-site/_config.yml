@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site
 
 linkedin_page: mckinleyit
 github_username: eric-mckinley
-github_project: /mckinleyit.com
+github_project: mckinleyit.com
 
 # Build settings
 markdown: kramdown
