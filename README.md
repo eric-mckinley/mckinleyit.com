@@ -12,7 +12,7 @@ Visit site at [http://localhost:12000](http://localhost:12000)
 
 Live edit site while running as jekyll tracks changes
 
- Generated content is found in PROJECT_DIR/_site
+ Generated content is found in PROJECT_DIR/static-site/_site
 
 ## Build Infrastructure
 
@@ -22,7 +22,7 @@ terraform init
 terraform apply
 ```
 
-Own the email ( admin@yourdomain.com )
+Own the email ( admin@yourdomain.com ) to accept the generated SSL cert.
 
 ### Publish Site
 
